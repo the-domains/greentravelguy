@@ -1,0 +1,28 @@
+name: GreenTravelGuy
+favicon: null
+layout_spectrum: 0.24213983141817153
+typography_spectrum: 0.6449566902592778
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.3931780653074384
+  lightness: 0.0905472501181066
+  saturation: 0.6463246995117515
+  rhythmicContrast: 0.11191138834692538
+purpose: []
