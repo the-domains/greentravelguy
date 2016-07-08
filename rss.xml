@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[GreenTravelGuy]]></title>
+        <description><![CDATA[GreenTravelGuy]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 08 Jul 2016 19:24:26 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf221856-63cf-4fe8-925a-8683ec86492e.jpg">]]></description>
+            <link>undefined9382538d-bd18-4a64-bb76-1c052d6221c9/index.html</link>
+            <guid isPermaLink="false">9382538d-bd18-4a64-bb76-1c052d6221c9</guid>
+            <pubDate>Fri, 08 Jul 2016 19:24:18 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
