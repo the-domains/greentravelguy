@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[GreenTravelGuy]]></title>
         <description><![CDATA[GreenTravelGuy]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/greentravelguy/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jul 2016 19:24:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 08 Jul 2016 19:30:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/greentravelguy/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a6ebda38-c5aa-445f-9e65-385cb58e6638.jpg">]]></description>
+            <link>https://thegrid.ai/greentravelguy/17c4beb0-5057-428b-b039-281c09289128/index.html</link>
+            <guid isPermaLink="false">17c4beb0-5057-428b-b039-281c09289128</guid>
+            <pubDate>Fri, 08 Jul 2016 19:29:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf221856-63cf-4fe8-925a-8683ec86492e.jpg">]]></description>
-            <link>undefined9382538d-bd18-4a64-bb76-1c052d6221c9/index.html</link>
+            <link>https://thegrid.ai/greentravelguy/9382538d-bd18-4a64-bb76-1c052d6221c9/index.html</link>
             <guid isPermaLink="false">9382538d-bd18-4a64-bb76-1c052d6221c9</guid>
             <pubDate>Fri, 08 Jul 2016 19:24:18 GMT</pubDate>
         </item>
